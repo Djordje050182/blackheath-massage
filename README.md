@@ -22,8 +22,28 @@ For a quick shareable preview you only need `index.html`. The rest is for when t
 2. Source: **Deploy from a branch**, Branch: `main`, Folder: `/ (root)`
 3. Save, wait ~60s, refresh the Pages screen for the live URL.
 
+## SEO / canonical setup
+
+All absolute URLs (canonical tag, Open Graph, JSON-LD `@id`s, `sitemap.xml`, `robots.txt`, `llms.txt`) point at the live GitHub Pages origin:
+
+```
+https://djordje050182.github.io/blackheath-massage/
+```
+
+`.nojekyll` is present so Pages serves every file (including `robots.txt`/`llms.txt`) verbatim.
+
+### If you later move to a custom domain (e.g. `blackheathmassagetherapy.com.au`)
+
+Find-and-replace the origin across `index.html`, `sitemap.xml`, `robots.txt` and `llms.txt`:
+
+```
+https://djordje050182.github.io/blackheath-massage  →  https://www.your-domain.com.au
+```
+
+…add a `CNAME` file containing the bare domain, point DNS at GitHub Pages, then submit the sitemap in Google Search Console.
+
 ## To do before it goes properly live
 
-- The canonical tag, `sitemap.xml`, `robots.txt` and the JSON-LD all currently point at `https://www.blackheathmassagetherapy.com.au/`. Fine for a preview, but these must match the real final domain before submitting to Google.
-- Add a `1200x630` `og-image.jpg` at the site root for social link previews.
+- Add a `1200x630` `og-image.jpg` at the site root for social link previews. *(A placeholder is generated and committed; swap for a real branded shot when available.)*
 - Hero and the 3-image gallery still use stock placeholder photos — swap for real shots when available.
+- Add real customer reviews (with `Review` / `aggregateRating` schema) once you have them — do **not** fabricate these; Google penalises fake review markup.

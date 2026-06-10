@@ -31,4 +31,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-Sitemap: https://www.blackheathmassagetherapy.com.au/sitemap.xml
+Sitemap: https://djordje050182.github.io/blackheath-massage/sitemap.xml

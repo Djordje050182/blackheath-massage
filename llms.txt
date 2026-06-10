@@ -7,7 +7,8 @@
 - Business: Blackheath Massage Therapy
 - Therapist: Geoff Turner (qualified, experienced massage therapist)
 - Service model: 100% mobile. The therapist comes to you; there is no fixed clinic to visit.
-- Service area: within approximately 20 minutes' drive of Blackheath, upper Blue Mountains, NSW, Australia.
+- Service area: within approximately 20 minutes' drive of Blackheath, upper Blue Mountains, NSW, Australia. This includes Blackheath, Medlow Bath, Katoomba, Leura, Mount Victoria and the Megalong Valley.
+- Availability: by appointment, typically 8am-8pm, seven days. Text or call to check times.
 - Booking: text or call +61 435 903 945. Instagram: @blackheathmassagetherapy
 - Currency: AUD. Prices are for mobile service within the 20-minute service area.
 - Timing note: quoted durations are hands-on treatment time. Allow an extra 15 minutes either side for set-up, a short consultation and pack-down.
@@ -26,8 +27,19 @@
 2. The therapist arrives with the table, fresh linens and oils, and sets up in a spot of the client's choosing.
 3. The client receives the treatment and stays where they are afterwards - no travel home.
 
+## Common questions
+
+- Q: What areas do you cover? A: Mobile massage within ~20 minutes' drive of Blackheath — including Medlow Bath, Katoomba, Leura, Mount Victoria and the Megalong Valley, in the upper Blue Mountains, NSW.
+- Q: Where does the massage take place? A: Wherever the client is — their own home, hotel, chalet or cottage. The service is fully mobile; there is no clinic. The therapist brings the table, fresh linens and oils.
+- Q: How much does a mobile massage cost? A: Relaxation Massage (60 min) and The Foot Rub (60 min) are $150; The Signature Massage (90 min) is $195; The Discovery Massage (120 min) is $240; a 30-minute foot add-on is $45. All prices are AUD.
+- Q: How long are treatments? A: 30 to 120 minutes of hands-on time. Allow an extra 15 minutes either side for set-up, a short consultation and pack-down.
+- Q: How do I book? A: Text or call Geoff on +61 435 903 945. Mention where you are and what your body needs.
+- Q: Is there a clinic to visit? A: No. The service is 100% mobile — the therapist travels to the client.
+
 ## Contact
 
 - Phone / text: +61 435 903 945
 - Instagram: https://www.instagram.com/blackheathmassagetherapy
-- Website: https://www.blackheathmassagetherapy.com.au
+- Website: https://djordje050182.github.io/blackheath-massage/
+
+_Last updated: 2026-06-10._
